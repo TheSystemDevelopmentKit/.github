@@ -4,6 +4,6 @@ Project Master template for the TheSyDeKick-system modeling and developement pro
 
 See https://thesystemdevelopmentkit.github.io/docs/index.html for thorough documentation.
 
-For discussion and help, ask for invite to https://thesydekick.slack.com Any member of that space can invite new member.
+For discussion and help, join the TheSyDeKick Zulip https://thesydekick.zulipchat.com/join/3i7xtk5bwdon6wajpzzqbthm (Link expires on ec 31. 2024) . Any member of that space can invite new member.
 
 
