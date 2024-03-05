@@ -7,4 +7,5 @@ See https://thesystemdevelopmentkit.github.io/docs/index.html for thorough docum
 For discussion and help, join the TheSyDeKick Zulip https://thesydekick.zulipchat.com/join/3i7xtk5bwdon6wajpzzqbthm (Link expires on Dec 31. 2024) . 
 Any member of that space can invite new member.
 
-![Zulip log](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Zulip log](https://github.com/TheSystemDevelopmentKit/.github/tree/main/profile/zulip-icon-128x128.png?raw=true)
+https://github.com/TheSystemDevelopmentKit/.github/tree/main/profile
