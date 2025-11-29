@@ -4,7 +4,7 @@ Project Master template for the TheSyDeKick-system modeling and developement pro
 
 See https://thesystemdevelopmentkit.github.io/docs/index.html for thorough documentation.
 
-For discussion and help, join the TheSyDeKick Zulip https://thesydekick.zulipchat.com/join/3i7xtk5bwdon6wajpzzqbthm (Link expires on Dec 31. 2024) . 
+For discussion and help, join the TheSyDeKick Zulip https://thesydekick.zulipchat.com/join/akrumzwzfal26ab4ipza6skt/
 Any member of that space can invite new member.
 
 Many TheSyDeKick entities are developed outside TheSyDeKick core at https://github.com/TheSDK-blocks
